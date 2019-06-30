@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragment_text</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chu_1">初音第一图</string>
+    <string name="chu_2">初音第二图</string>
+    <string name="chu_3">初音第三图</string>
+</resources>
